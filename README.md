@@ -1,53 +1,45 @@
-# SistemaAgendamentoDenguinho
+# Sistema de Agendamento Denguinho 🐶
 
-**Denguinho - Para Cachorro** é um sistema desktop desenvolvido para auxiliar no gerenciamento de agendamentos, clientes, caixa e relatórios em petshops especializados em banho e tosa.
+Sistema de agendamento desenvolvido em Java com Swing e SQLite para controle de atendimentos em petshops.
 
-## 🐾 Funcionalidades Principais
+## Funcionalidades
 
-### 📆 Agenda Diária
-- Visualização clara de horários ocupados e livres por profissional.
-- Agendamentos por horário, profissional e tipo de serviço (banho, tosa, etc).
-- Filtros por profissional e serviço.
-- Cadastro de múltiplos pets por cliente.
+- 🗓 **Agendamento de serviços** para pets com visualização diária estilo grade;
+- 👩‍💼 Controle de **profissionais** e **tipos de serviço**;
+- 💸 Tela de **caixa** com baixa automática dos valores agendados;
+- 📊 Geração de **relatórios** (em breve);
+- 📁 Cadastro completo de **clientes e pets**;
+- 🖥 Interface moderna e intuitiva com foco na praticidade.
 
-### 💵 Caixa
-- Controle de movimentações financeiras.
-- Vendas integradas com os agendamentos.
-- Abertura e fechamento de caixa em tela separada.
+## Tecnologias
 
-### 👤 Clientes e Pets
-- Cadastro e busca de clientes e pets.
-- Relacionamento pet/cliente com preenchimento automático na agenda.
+- Java (Swing)
+- SQLite
+- NetBeans IDE
 
-### 📊 Relatórios
-- Geração de relatórios financeiros e de agendamentos.
-
-### 🏠 Dashboard Inicial
-- Exibição de dados principais: número de agendamentos e total de vendas do dia.
-- Navegação facilitada por menu lateral colorido.
-
-## 🖼️ Imagens do Sistema
+## Telas do Sistema
 
 ### Tela Inicial
-![Tela Inicial](./assets/tela-inicial.png)
+Exibe o resumo do dia com total de agendamentos e vendas realizadas.
+
+![Tela Inicial](assets/tela-inicial.png)
+
+---
 
 ### Agenda Diária
-![Agenda Diária](./assets/agenda-diaria.png)
+Agenda no estilo grade com horários, profissionais e serviços, possibilitando visualização e filtragem por data, profissional e tipo de serviço.
 
-### Tela de Caixa
-![Caixa](./assets/caixa.png)
+![Agenda Diária](assets/agenda-diaria.png)
 
-### Cadastro de Cliente
-![Cadastro de Cliente](./assets/cadastro-cliente.png)
+---
 
-## 🛠️ Tecnologias Utilizadas
-- Java (Swing)
-- NetBeans IDE
-- SQLite (persistência de dados)
-- JDBC
+### Tela do Caixa
+Permite registrar pagamentos com base nos agendamentos realizados.
 
-## 💡 Como Executar
+![Caixa](assets/caixa.png)
 
-1. Clone este repositório:
+## Como Executar
+
+1. Clone o repositório:
    ```bash
    git clone https://github.com/luanascutti/SistemaAgendamentoDenguinho.git
