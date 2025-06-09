@@ -7,7 +7,7 @@ Sistema de agendamento desenvolvido em Java com Swing e SQLite para controle de 
 - 🗓 **Agendamento de serviços** para pets com visualização diária estilo grade;
 - 👩‍💼 Controle de **profissionais** e **tipos de serviço**;
 - 💸 Tela de **caixa** com baixa automática dos valores agendados;
-- 📊 Geração de **relatórios** (em breve);
+- 📊 Geração de **relatórios**;
 - 📁 Cadastro completo de **clientes e pets**;
 - 🖥 Interface moderna e intuitiva com foco na praticidade.
 
@@ -37,6 +37,16 @@ Agenda no estilo grade com horários, profissionais e serviços, possibilitando 
 Permite registrar pagamentos com base nos agendamentos realizados.
 
 ![Caixa](assets/caixa.png)
+
+
+---
+
+### Tela de relatórios
+Permite puxar o historios de vendas e agendamentos em excel com base na data escolhida.
+
+![relatorios](assets/relatorios.png)
+
+
 
 ## Como Executar
 
