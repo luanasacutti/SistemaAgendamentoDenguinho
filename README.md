@@ -54,7 +54,7 @@ Tela de gerenciamento de clientes, exibindo uma lista com os dados do tutor e do
 Permite editar, excluir, atualizar a lista ou realizar um novo cadastro.
 O menu lateral facilita a navegação para outras áreas do sistema, como agenda, caixa e relatórios.
 
-![cliente cadastrado](assets/cliente-cadastrado.png)
+![cliente cadastrado](assets/cliente-cadastro.png)
 
 ## Como Executar
 
