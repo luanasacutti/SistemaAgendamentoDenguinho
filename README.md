@@ -47,6 +47,14 @@ Permite puxar o historios de vendas e agendamentos em excel com base na data esc
 ![relatorios](assets/relatorios.png)
 
 
+---
+
+### Clientes Cadastrados
+Tela de gerenciamento de clientes, exibindo uma lista com os dados do tutor e do pet (nome, telefone, pet e raça).
+Permite editar, excluir, atualizar a lista ou realizar um novo cadastro.
+O menu lateral facilita a navegação para outras áreas do sistema, como agenda, caixa e relatórios.
+
+![clientes](assets/cliente-cadastrado.png)
 
 ## Como Executar
 
