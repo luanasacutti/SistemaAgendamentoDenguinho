@@ -61,3 +61,8 @@ O menu lateral facilita a navegação para outras áreas do sistema, como agenda
 1. Clone o repositório:
    ```bash
    git clone https://github.com/luanascutti/SistemaAgendamentoDenguinho.git
+
+
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
